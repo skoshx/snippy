@@ -20,7 +20,7 @@
 <div class="flex">
 	<!-- Sidebar -->
 	<div class="w-1/3 p-4 space-y-8">
-		<div>
+		<div class="space-y-2">
 			<h1 class="font-semibold text-3xl">Snippy</h1>
 			<p class="text-lg text-gray-400">Create beautiful gradient screenshots in seconds. Inspired by <a class="text-brand-400 hover:text-brand-600 transition" href="https://twitter.com/farazpatankar13" target="_blank">@FarazPatankar’s</a> <a class="text-brand-400 hover:text-brand-600 transition" href="https://github.com/FarazPatankar/snip-snap" target="_blank">Snipsnap tool.</a></p>
 		</div>
@@ -57,4 +57,4 @@
 </div>
 
 <!-- Designed by skoshx in Helsinki, Finland -->
-<p class="text-gray-300 absolute bottom-4 left-1/2 select-none text-center">Designed by <a href="https://skoshx.com" class="hover:text-brand-400 transition">skoshx</a> in Helsinki, Finland</p>
+<p class="text-gray-300 dark:text-gray-600 absolute bottom-4 left-1/2 select-none text-center">Designed by <a href="https://skoshx.com" class="hover:text-brand-400 transition" target="_blank">skoshx</a> in Helsinki, Finland</p>
