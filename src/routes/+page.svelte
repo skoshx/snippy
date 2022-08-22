@@ -14,14 +14,14 @@
 </script>
 
 <svelte:head>
-	<title>Snipsnap | Create beautiful gradient screenshots in seconds</title>
+	<title>Snippy | Create beautiful gradient screenshots in seconds</title>
 </svelte:head>
 
 <div class="flex">
 	<!-- Sidebar -->
 	<div class="w-1/3 p-4 space-y-8">
 		<div>
-			<h1 class="font-semibold text-3xl">Snipsnap</h1>
+			<h1 class="font-semibold text-3xl">Snippy</h1>
 			<p class="text-lg text-gray-400">Create beautiful gradient screenshots in seconds. Inspired by <a class="text-brand-400 hover:text-brand-600 transition" href="https://twitter.com/farazpatankar13" target="_blank">@FarazPatankar’s</a> <a class="text-brand-400 hover:text-brand-600 transition" href="https://github.com/FarazPatankar/snip-snap" target="_blank">Snipsnap tool.</a></p>
 		</div>
 		<div class="space-y-2">
